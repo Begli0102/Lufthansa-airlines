@@ -1,0 +1,15 @@
+.navbar {
+  padding: 10px 16px;
+  box-sizing: border-box;
+  border-bottom: 1px lightgrey solid;
+  display: flex;
+  flex-flow: row nowrap;
+  background-color: #ffffff;
+}
+
+img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: none;
+}
